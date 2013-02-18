@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="mensen">
+		<item>[UNI] Geo-Mensa Petrisberg</item>
+		<item>[UNI] Tarforst</item>
+		<item>[UNI] Kleine Karte | Forum/Bistro AB</item>
+		<item>[UNI] Abendmensa | Bistro A/B</item>
+		<item>[FH] Kleine Karte | Cafeteria Schneidershof</item>
+		<item>[FH] Speisekarte Schneidershof</item>
+	</array>
+</resources>

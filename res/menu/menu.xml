@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/settings_update" android:title="@string/settings_label_update" android:alphabeticShortcut="s" />
+	<item android:id="@+id/settings_update_widget" android:title="@string/settings_label_update_widget" android:alphabeticShortcut="t" />
+</menu>

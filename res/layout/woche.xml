@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="top"
+	android:orientation="vertical"
+	android:background="#FFF">
+	<ListView
+		android:layout_marginTop="10dp"
+		android:id="@+id/essensliste"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textSize="10sp"
+		android:layout_alignParentTop="true"
+		android:gravity="center"
+		android:scrollbars="none"
+		android:dividerHeight="0px"
+		android:divider="@android:color/white"
+		android:layout_weight="1.0"></ListView>
+	<Spinner
+		android:layout_weight="0"
+		android:id="@+id/mensaauswahl"
+		android:background="@drawable/spinner"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:layout_gravity="center_horizontal"
+		android:entries="@array/mensen"
+		android:layout_marginTop="10dp"
+		android:layout_marginBottom="10dp"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"/>
+</LinearLayout>

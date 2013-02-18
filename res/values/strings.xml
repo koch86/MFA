@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Detailseite -->
+	<string name="wochenbutton">ZUM WOCHENPLAN</string>
+	<string name="detailsuppetitel">Tagessuppe</string>
+	<string name="detailstammtitel">Stammessen I</string>
+	<string name="detailvegtitel">Stammessen II</string>
+	<string name="detailkompotitel">Komponentenessen</string>
+	<string name="UTTarforstTitle">Uni Trier: Mensa Tarforst</string>
+	<string name="UTTarforstSummary">Aktiviert den Speiseplan für die Uni-Mensa am Campus I Tarforst</string>
+	<string name="UTPetrisbergTitle">Uni Trier: Mensa Petrisberg</string>
+	<string name="UTPetrisbergSummary">Aktiviert den Speiseplan für die Uni-GeoMensa am Campus II Petrisberg</string>
+	<string name="FHTSchneidershofTitle">FH Trier: Mensa Schneidershof</string>
+	<string name="FHTSchneidershofSummary">Aktiviert den Speiseplan für die FH-Mensa am Campus Schneidershof</string>
+	<string name="settings_label_auswahl">Einstellungen</string>
+	<string name="settings_label_update">Daten neu laden</string>
+	<string name="settings_label_update_widget">Widget aktualisieren</string>
+	<string name="settings_title">Gewünschte Mensen wählen</string>
+	<string name="license">Hinweise zur Benutzung des MensaFoodApp:\n\nDieses Programm dient zur Darstellung des aktuellen Speiseplans der Trierer Mensen.\n
+	Alle Informationen über die angebotenen Speisen und deren Preise werden von der öffentlichen Homepage des Studierendenwerk Trier bezogen und sind somit 
+	geistiges Eigentum des Studierendenwerks.\n\n
+	Für die Richtigkeit der Inhalte sowie Verfügbarkeit der Speisepläne übernimmt der Entwickler keine Gewähr.\n 
+	Die Bereitstellung der Inhalte geschieht kostenfrei und kann jederzeit ohne Angabe von Gründen eingestellt werden.\n\n
+	Diese Software wurde auf Fehlerfreiheit geprüft, jedoch kann für die korrekte Funktion und fehlerfreie Darstellung keine Gewähr oder Haftung übernommen werden. 
+	Die Verwendung dieser Software geschieht auf eigene Gefahr.
+	</string>
+	<string name="appName">MensaFoodApp</string>
+	<string name="Description">Das MensaFoodApp liest die aktuellen Speisepläne der trierer Mensen und bringt sie direkt auf dein Android-Phone</string>
+</resources>
